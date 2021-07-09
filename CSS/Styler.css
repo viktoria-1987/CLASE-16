@@ -1,0 +1,78 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    margin: 5px;
+    box-sizing: border-box;
+}
+
+header, footer {
+    background-color: black;
+    padding: 1px;
+}
+
+/*ENCABEZADO*/
+.PrimeraLista{
+    text-align: right;
+     color: skyblue;
+}
+
+/*CAJA UNO*/
+
+.enviogratis{
+    position: relative;
+    left: 30px;
+    top: 50px;
+    }
+
+    h2{
+        color:red
+    } 
+
+    .white{
+        color:seashell
+    }
+
+    /*CAJA DOS*/
+
+    .podio{
+        position: relative;
+        left: 700px;
+        bottom: 343px;
+    }
+
+    .Top5{
+        position: relative;
+        left:600px;
+        bottom: 300px;
+    }
+
+    .container1{
+        position: relative;
+        left: 550px;
+        bottom: 280px;
+        font-weight: bold;
+        line-height: 25px;
+    }
+
+    .pino{
+        position: relative;
+        left: 850px;
+        bottom: 430px;
+    }
+
+    /*PIE DE PÁGINA*/
+
+    .logo2{
+        position: relative;
+        left: 900px;
+        bottom: 30px;
+       
+    }
+
+    .SegundaLista{
+        text-align: left;
+         color: skyblue;
+    }
+
+    
+
+    
